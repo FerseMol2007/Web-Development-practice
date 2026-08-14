@@ -6,29 +6,7 @@ The projects focus on building a strong understanding of HTML structure, CSS sty
 
 📂 Projects
 
-1. JavaScript If-Else Practice
-
-A simple practice project to understand JavaScript "if", "else if", and "else" conditions.
-
-Concepts practiced:
-
-- Conditional statements
-- Comparison operators
-- User input
-- Basic JavaScript logic
-
-2. Image Gallery
-
-A simple image gallery created using HTML and CSS.
-
-Concepts practiced:
-
-- HTML images
-- CSS layout
-- Styling
-- Image arrangement
-
-3. Addition Calculator
+1.Addition Calculator
 
 A basic calculator that takes numbers from the user and calculates their sum.
 
@@ -40,7 +18,8 @@ Concepts practiced:
 - Arithmetic operations
 - DOM manipulation
 
-4. Guessing Number Game
+  
+2. Guessing Number Game
 
 A simple game where the user tries to guess a randomly selected number.
 
@@ -52,18 +31,8 @@ Concepts practiced:
 - Comparison operators
 - Game logic
 
-5. Transition Color Change
 
-A CSS practice project demonstrating smooth color transitions.
-
-Concepts practiced:
-
-- CSS transitions
-- Hover effects
-- Colors
-- CSS styling
-
-6. JavaScript Button Click Practice
+3. JavaScript Button Click Practice
 
 A basic project demonstrating how JavaScript responds to button clicks.
 
@@ -74,7 +43,20 @@ Concepts practiced:
 - DOM manipulation
 - Event handling
 
-7. Student Score System
+ 
+ 4. JavaScript If-Else Practice
+
+A simple practice project to understand JavaScript "if", "else if", and "else" conditions.
+
+Concepts practiced:
+
+- Conditional statements
+- Comparison operators
+- User input
+- Basic JavaScript logic
+
+
+5. Student Score System
 
 A simple system that evaluates a student's score and displays the appropriate result.
 
@@ -84,6 +66,31 @@ Concepts practiced:
 - User input
 - Comparison operators
 - JavaScript logic
+
+
+6. Transition Color Change
+
+A CSS practice project demonstrating smooth color transitions.
+
+Concepts practiced:
+
+- CSS transitions
+- Hover effects
+- Colors
+- CSS styling
+
+
+7. Image Gallery
+
+A simple image gallery created using HTML and CSS.
+
+Concepts practiced:
+
+- HTML images
+- CSS layout
+- Styling
+- Image arrangement
+
 
 🛠️ Technologies Used
 
