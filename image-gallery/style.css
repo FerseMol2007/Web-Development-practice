@@ -1,0 +1,29 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+
+body{
+  font-family: "Yuyu", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  background-color:slategray;
+}
+
+.titlebar{
+  text-align: center;
+  padding: 10px;
+}
+
+.container{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.container div{
+  width: 220px;
+  margin:10px;
+  flex-basis:20%;
+  justify-content: space-around;
+}
