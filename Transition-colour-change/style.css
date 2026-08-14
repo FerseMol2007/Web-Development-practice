@@ -1,0 +1,11 @@
+div {
+    background-color: aqua;
+    width: 100px;
+    height: 100px;
+    transition: 4s;
+}
+
+.widthmax {
+    width: 900px;
+    height: 400px;
+}
